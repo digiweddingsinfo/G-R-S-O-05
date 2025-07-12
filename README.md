@@ -1,2 +1,2 @@
-# G-R-S-O-05
-Gender Reveal Scratch Off Card 
+# Godmother-Scratch-Card-01
+Godmother Scratch Card
